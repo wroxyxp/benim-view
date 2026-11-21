@@ -1,0 +1,8 @@
+Package: com.benim.view
+Name: BenimView
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Ozel View Dylib
+Maintainer: wroxyxp
+Author: wroxyxp
+Section: Tweaks
